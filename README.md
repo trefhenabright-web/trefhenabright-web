@@ -1,4 +1,4 @@
-# Hi there, I'm [Trefhena Bright] 👋
+# Hi there, I'm Trefhena Bright 👋
 
 ### 👨‍💻 First-Year ECE Student | Aspiring Semiconductor & VLSI Engineer
 
