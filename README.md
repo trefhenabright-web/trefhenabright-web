@@ -66,6 +66,5 @@ Exploring basic digital electronics and circuit concepts.
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN)
-- 🐙 GitHub: [My GitHub](https://github.com/trefhenabright-web)
-- 📧 Email: [My Email](mailto:YOUR_EMAIL)
+- Let's connect, collaborate on projects, and explore opportunities in electronics, semiconductor technology, and VLSI.
+- Reach out via [LinkedIn](https://www.linkedin.com/in/Trefhena Bright H) or drop me an email at [trefhenabright@gmail.com](mailto:trefhenabright@gmail.com).
