@@ -67,4 +67,4 @@ Exploring basic digital electronics and circuit concepts.
 ## 📬 Connect With Me
 
 - Let's connect, collaborate on projects, and explore opportunities in electronics, semiconductor technology, and VLSI.
-- Reach out via [LinkedIn](https://www.linkedin.com/in/Trefhena Bright H) or drop me an email at [trefhenabright@gmail.com](mailto:trefhenabright@gmail.com).
+- Reach out via [LinkedIn] or drop me an email at [trefhenabright@gmail.com](mailto:trefhenabright@gmail.com).
