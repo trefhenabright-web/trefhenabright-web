@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm [Trefhena Bright] 👋
 
-<!--
-**trefhenabright-web/trefhenabright-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 First-Year ECE Student | Aspiring Semiconductor & VLSI Engineer
 
-Here are some ideas to get you started:
+## 📖 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 First-year Electronics and Communication Engineering (ECE) student
+- 🔬 Interested in Semiconductor Technology and VLSI
+- 🌱 Currently building my fundamentals in Electronics and Programming
+- 💻 Learning C and Python
+- 📚 Exploring Digital Electronics and Semiconductor Fundamentals
+- 🎯 Future Focus: Verilog, SystemVerilog, VLSI Design and FPGA
+- 🚀 Goal: Build a career in the Semiconductor/VLSI industry
+
+## 🛠️ Currently Learning
+
+| Area        | Technologies                           |
+|             |                                        |
+| Programming | C, Python.                             |
+| Electronics | Basic Electronics, Digital Electronics |
+| Tools.      | Git, GitHub, VS Code.                  |
+
+## 📌 Projects
+
+### 💻 C Programming
+My collection of C programming exercises and beginner projects.
+
+### 🐍 Python Learning
+Small Python programs and problem-solving exercises.
+
+### ⚡ Electronics Learning
+My journey through digital electronics and basic circuit concepts.
+
+## 🗺️ Career Roadmap
+
+- 🟢 **Current:** C, Python & Electronics fundamentals
+- 🔵 **Next:** Digital Electronics & Verilog
+- 🎯 **Future:** SystemVerilog & VLSI Design
+- 🚀 **Long-term:** Semiconductor / VLSI Engineering
+
+## 📬 Connect With Me
+
+I'm always interested in learning, building projects and exploring the semiconductor industry.
